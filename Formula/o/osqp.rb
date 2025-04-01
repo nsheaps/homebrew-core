@@ -1,8 +1,8 @@
 class Osqp < Formula
   desc "Operator splitting QP solver"
   homepage "https://osqp.org/"
-  url "https://github.com/osqp/osqp/archive/refs/tags/v0.6.3.tar.gz"
-  sha256 "a6b4148019001f87489c27232e2bdbac37c94f38fa37c1b4ee11eaa5654756d2"
+  url "https://github.com/osqp/osqp/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "dd6a1c2e7e921485697d5e7cdeeb043c712526c395b3700601f51d472a7d8e48"
   license "Apache-2.0"
 
   bottle do
